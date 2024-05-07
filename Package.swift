@@ -16,7 +16,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         .package(
             name: "argon2", 
-            url: "https://github.com/P-H-C/phc-winner-argon2.git", .branch("master")
+            url: "https://github.com/altname/phc-winner-argon2.git", .branch("compatibility")
         )
     ],
     targets: [

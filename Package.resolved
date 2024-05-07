@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "argon2",
-        "repositoryURL": "https://github.com/P-H-C/phc-winner-argon2.git",
+        "repositoryURL": "https://github.com/altname/phc-winner-argon2.git",
         "state": {
           "branch": "master",
-          "revision": "16d3df698db2486dde480b09a732bf9bf48599f9",
+          "revision": "f57e61e19229e23c4445b85494dbf7c07de721cb",
           "version": null
         }
       }
